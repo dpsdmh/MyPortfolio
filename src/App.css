@@ -1,0 +1,22 @@
+.gradient_background {
+    background: linear-gradient(90deg, #0c1c38,rgb(23, 52, 144),#56076e);
+    
+  }
+
+.main{
+   font-family:Space Grotesk,sans-serif;
+    color: white;
+    
+}
+
+@media(max-width:600px){
+    html{
+        font-size:70%;
+        
+    }
+}
+@media(max-width:400px){
+    html{
+        font-size:50%;
+    }
+}

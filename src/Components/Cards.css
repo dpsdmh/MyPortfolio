@@ -1,0 +1,13 @@
+.card:hover{
+    transform: scale(1.05);
+    transition: 1000ms;
+}
+.link1:hover{
+    font-size: larger;
+    color: #0a5faf;
+    transition: 500ms;
+
+}
+
+
+  
